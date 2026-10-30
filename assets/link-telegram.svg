@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="144" height="48" viewBox="0 0 144 48" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
 <defs></defs>
 
-<rect width="144" height="48" rx="24" fill="#35254f"/>
-<circle cx="26" cy="24" r="15" fill="#c4a1ff"/>
-<g transform="translate(26 24)" fill="none" stroke="#3b1f6b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M-8 0 L8 -7 L5 8 L0 3 L-3 6 L-3 1 L5 -5"/></g>
-<text x="50" y="30" font-size="17" font-weight="600" fill="#f1e9ff">Telegram</text>
+<rect width="144" height="48" rx="24" fill="#251e33"/>
+<circle cx="26" cy="24" r="15" fill="#2c2240"/>
+<g transform="translate(26 24)" fill="none" stroke="#a991d4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M-8 0 L8 -7 L5 8 L0 3 L-3 6 L-3 1 L5 -5"/></g>
+<text x="50" y="30" font-size="17" font-weight="600" fill="#e9e4f2">Telegram</text>
 
 </svg>
