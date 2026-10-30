@@ -5,6 +5,7 @@
 <br>
 
 <a href="https://github.com/HelNN372"><img src="assets/link-github.svg" alt="GitHub" height="48"></a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://t.me/Coklopan"><img src="assets/link-telegram.svg" alt="Telegram" height="48"></a>
 
 <br><br>
