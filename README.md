@@ -5,8 +5,7 @@
 <br>
 
 <a href="https://github.com/HelNN372"><img src="assets/link-github.svg" alt="GitHub" height="48"></a>
-<a href="https://t.me/your_username"><img src="assets/link-telegram.svg" alt="Telegram" height="48"></a>
-<a href="https://discord.com/users/your_id"><img src="assets/link-discord.svg" alt="Discord" height="48"></a>
+<a href="https://t.me/Coklopan"><img src="assets/link-telegram.svg" alt="Telegram" height="48"></a>
 
 <br><br>
 
