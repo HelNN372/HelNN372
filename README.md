@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Hi, I'm HelNN372" width="820">
+<img src="assets/header.svg" alt="Hi, I'm Kolpahek" width="820">
 
 <br>
 
