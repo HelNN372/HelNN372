@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="132" height="48" viewBox="0 0 132 48" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<defs></defs>
+
+<rect width="132" height="48" rx="24" fill="#21423d"/>
+<circle cx="26" cy="24" r="15" fill="#5eead4"/>
+<g transform="translate(26 24)" fill="none" stroke="#134e4a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M-7 -3 L-7 5 M7 -3 L7 5 M-7 5 L7 5 M-5 -7 L-2 -4 L2 -4 L5 -7"/></g>
+<text x="50" y="30" font-size="17" font-weight="600" fill="#e4f5f1">GitHub</text>
+
+</svg>

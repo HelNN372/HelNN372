@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**HelNN372/HelNN372** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="assets/header.svg" alt="Hi, I'm HelNN372" width="820">
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/HelNN372"><img src="assets/link-github.svg" alt="GitHub" height="48"></a>
+<a href="https://t.me/your_username"><img src="assets/link-telegram.svg" alt="Telegram" height="48"></a>
+<a href="https://discord.com/users/your_id"><img src="assets/link-discord.svg" alt="Discord" height="48"></a>
+
+<br><br>
+
+<img src="assets/about.svg" alt="About me" width="820">
+
+<br>
+
+<img src="assets/stack.svg" alt="Tech stack" width="820">
+
+<br>
+
+<img src="assets/footer.svg" alt="Open to interesting projects" width="820">
+
+</div>
